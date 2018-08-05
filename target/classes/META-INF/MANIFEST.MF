@@ -1,5 +1,10 @@
 Manifest-Version: 1.0
+Implementation-Title: Simple Spring Boot App
+Implementation-Version: 0.0.1-SNAPSHOT
 Built-By: Mercurial
+Implementation-Vendor-Id: Building_Spring_Boot_App
 Build-Jdk: 1.8.0_121
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/First_App
 Created-By: Maven Integration for Eclipse
 
